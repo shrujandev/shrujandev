@@ -10,36 +10,19 @@
 ## 👨‍💻 Languages
 
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" /></a>
-
 <a href=""><img alt="" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /></a>
-
 <a href=""><img alt="" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /></a>
-<a href=""><img alt="" src="
-https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
-<a href=""><img alt="" src="
-https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" /></a>
+<a href=""><img alt="" src="https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B" /></a>
 
-## 🧰 Libraries and Frameworks
-
-<a href=""><img alt="" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /></a>
-<a href=""><img alt="" src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white" /></a>
 
 ## 🔧 Tools
 
 <a href=""><img alt="" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
-
 <a href=""><img alt="" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" /></a>
-
 <a href=""><img alt="" src="https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white" /></a>
 <a href=""><img alt="" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" /></a>
 

@@ -21,36 +21,42 @@
 </div>
 
 ---
-
 # About Me
 
 ```python
 class ShrujanDev:
-
     def __init__(self):
+        self.name = "Shrujan Dev"
         self.role = "Software Engineer"
         self.location = "Bengaluru, India"
 
-        self.interests = [
+        self.specialization = [
             "Artificial Intelligence",
-            "LLMs",
             "Backend Engineering",
             "Cloud Computing",
-            "Cyber Security",
-            "Open Source"
+            "Cyber Security"
         ]
 
-        self.currently_building = [
+        self.current_focus = [
             "Multi-Agent AI Systems",
-            "Slack AI Applications",
-            "Cloud Native Backends",
-            "Financial Intelligence Platforms"
+            "Large Language Models",
+            "Cloud Native Applications",
+            "Distributed Systems"
         ]
 
-    def motto(self):
-        return "Build. Learn. Improve. Repeat."
-````
+        self.tech_stack = {
+            "Languages": ["Python", "C++", "JavaScript", "SQL"],
+            "Cloud": ["AWS", "Docker"],
+            "Databases": ["MySQL", "MongoDB", "Vertica"],
+            "Tools": ["Git", "Linux", "VS Code"]
+        }
 
+    def say_hi(self):
+        return (
+            "Thanks for stopping by! "
+            "Feel free to explore my repositories and connect with me."
+        )
+```
 ---
 
 # Tech Stack
@@ -181,9 +187,6 @@ Slack-based AI assistant
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://twitter.com/DevShrujan">
-<img src="https://skillicons.dev/icons?i=twitter"/>
-</a>
 
 <a href="https://discordapp.com/users/755664182568943686">
 <img src="https://skillicons.dev/icons?i=discord"/>
@@ -198,4 +201,4 @@ Slack-based AI assistant
 ### "The best way to predict the future is to build it."
 
 </div>
-```
+

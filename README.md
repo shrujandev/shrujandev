@@ -1,4 +1,3 @@
-````markdown
 <div align="center">
 
 # Hi, I'm Shrujan Dev <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
